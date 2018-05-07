@@ -36,8 +36,8 @@ sudo apt-get install rpcbind
     ```
 2. To test the remote method, 
     ```
-    sudo ./sqr-client <server_address> <number>
+    sudo ./sqr-client SERVER_ADDRESS NUMBER
     ```
-    **<server_address>** - Address of the server  
-    **<number>** - Number to be squared  
+    SERVER_ADDRESS - Address of the server  
+    NUMBER - Number to be squared  
     
